@@ -41,3 +41,6 @@ The "sign in" sheet executable jar runs as:
   - 4.  The program advances once the file is saved and text fields and any asked questions appear for
         a student to fill in. Students can then save their response and the CSV file will then open 
         save the responses and then close after each student hits save.
+        
+# JAR File Won't Run?
+You may need to download JAVA on your computer: https://www.java.com/en/download/
